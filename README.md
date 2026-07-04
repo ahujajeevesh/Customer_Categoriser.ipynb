@@ -14,17 +14,11 @@ Dataset used
 </html>
 
 ## Tech Stack Used
-
 1. Python
-2. FastAPI
-3. Machine learning algorithms
-4. Docker
-5. MongoDB
+2. Machine learning algorithms
+
 
 ## Infrastructure required
-
-1. AWS S3
-2. Azure
 3. Github Actions
 
 ## `src` is the main package folder which contains
